@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
-//https://config-3344.com:3344/application-dev.yml
+//http://config-3344.com:3344/application-dev.yml
 //uri: https://github.com/chaonongtiancai/microservicecloud-config.git
 @SpringBootApplication
 @EnableConfigServer
